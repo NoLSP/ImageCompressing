@@ -1,0 +1,10 @@
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\bin\Release\ImageCompressing01.exe.config
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\bin\Release\ImageCompressing01.exe
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\bin\Release\ImageCompressing01.pdb
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\obj\Release\ImageCompressing01.csproj.AssemblyReference.cache
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\obj\Release\ImageCompressing01.Form1.resources
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\obj\Release\ImageCompressing01.Properties.Resources.resources
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\obj\Release\ImageCompressing01.csproj.GenerateResource.cache
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\obj\Release\ImageCompressing01.csproj.CoreCompileInputs.cache
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\obj\Release\ImageCompressing01.exe
+G:\Files\Projects\C#\ImageCompressing01\ImageCompressing01\obj\Release\ImageCompressing01.pdb
